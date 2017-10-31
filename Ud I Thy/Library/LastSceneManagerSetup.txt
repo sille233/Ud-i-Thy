@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/Main_menu.unity
-=======
-- path: Assets/3dModel.unity
->>>>>>> origin/3d-modeller
   isLoaded: 1
   isActive: 1
