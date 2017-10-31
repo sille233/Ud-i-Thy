@@ -6,8 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Main_menu.unity
     guid: ac72c13f6f1a7c442be3c308dff9f7e8
   - enabled: 1
     path: Assets/testScene.unity
     guid: 5770c57982a359345a4f4302fc823558
+=======
+    path: Assets/3dModel.unity
+    guid: 3b590811805a95a4f8c3d95aa7b0a20f
+  - enabled: 1
+    path: Assets/3dModelInfo.unity
+    guid: ed727bbfdffb864479bc9c1457ceff39
+>>>>>>> origin/3d-modeller
