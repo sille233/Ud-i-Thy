@@ -90,9 +90,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\creativeScript.cs" />
     <Compile Include="Assets\Script\fadeInPanel.cs" />
     <Compile Include="Assets\Script\goBackScene.cs" />
     <Compile Include="Assets\Script\objectClicked.cs" />
+    <Compile Include="Assets\Script\quizScript.cs" />
     <Compile Include="Assets\Script\rotateObject.cs" />
     <Compile Include="Assets\Script\sceneChanger.cs" />
     <Compile Include="Assets\Test.cs" />
